@@ -141,6 +141,18 @@ ipch/
 *.VC.db
 *.VC.VC.opendb
 
+*.sln
+*.suo
+*.user
+*.pdb
+*.obj
+*.ilk
+*.exp
+*.lib
+*.dll
+*.exe
+*.log
+
 # Visual Studio profiler
 *.psess
 *.vsp
